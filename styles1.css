@@ -1,0 +1,65 @@
+
+body{
+background-color: darkred;
+}
+
+h1{ 
+color: wheat;
+font-size: 50px;
+text-align:center;
+font-family: "Pacifico", cursive;
+}
+
+.foto, .img2{
+text-align: center;
+}
+
+
+h2{
+font-family:"Shadows Into Light",cursive ;
+color:yellow ;
+text-align: center;
+font-size: 35px;
+}
+
+.teamo{
+	text-align: center;
+	font-size: 40px;
+	font-family: "Pacifico";
+	color: violet;
+}
+
+
+
+.razones{
+	text-align: left;
+	color: darksalmon;
+	font-size: 30px;
+	font-family: "Pacifico";
+
+}
+
+
+
+h3{
+font-family:"Shadows Into Light" ;
+font-size: 70px;
+text-align: center;
+color: violet;
+
+
+}
+
+
+
+.normal{
+font-family: "Shadows Into Light" cursive	;
+font-size: 	30px;
+color: yellow		;
+
+}
+
+ul{
+	list-style-image: url("https://correodelasflores.com/wp-content/uploads/2022/05/1-1024x970.png")
+	padding-left: 40px;
+}
